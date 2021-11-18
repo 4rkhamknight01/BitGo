@@ -1,2 +1,2 @@
 # BitGo 
- Easy stop and go website that predicts closing values and statistical analysis of major cryptocurrency
+ Easy stop and go webapp that predicts closing values and statistical analysis of major cryptocurrencies
